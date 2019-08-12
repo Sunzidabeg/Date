@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Date
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sunzida
+Implementation-Vendor-Id: com.codingdojo
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/Date/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
